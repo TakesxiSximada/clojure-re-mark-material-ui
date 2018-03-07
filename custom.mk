@@ -8,7 +8,7 @@ help:
 
 .PHONY: project
 project:
-	lein new re-frame --to-dir $(CURDIR) --force
+	lein new reagent --to-dir $(CURDIR) --force
 
 
 .PHONY: deps

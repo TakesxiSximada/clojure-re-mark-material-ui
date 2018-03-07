@@ -1,4 +1,4 @@
-(ns re-frame.core)
+(ns reagent.core)
 
 (defn foo
   "I don't do a whole lot."

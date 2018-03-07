@@ -1,6 +1,6 @@
-(ns re-frame.core-test
+(ns reagent.core-test
   (:require [clojure.test :refer :all]
-            [re-frame.core :refer :all]))
+            [reagent.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
